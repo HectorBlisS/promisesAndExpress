@@ -1,0 +1,22 @@
+{
+  "name": "detoxer",
+  "version": "0.0.1",
+  "description": "bliss is hungry for healthy food",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "watch": "nodemon app.js"
+  },
+  "keywords": [
+    "testing",
+    "learning",
+    "ironhack"
+  ],
+  "author": "BlisS",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "hbs": "^4.0.1",
+    "mongoose": "^5.2.1"
+  }
+}
